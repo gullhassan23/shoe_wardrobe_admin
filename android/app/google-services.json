@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "692120913024",
+    "project_id": "shoewardrobe-22db3",
+    "storage_bucket": "shoewardrobe-22db3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692120913024:android:d6c8461a9c4302eed85265",
+        "android_client_info": {
+          "package_name": "com.example.shoe_wardrobe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKPfUocF7W5-UymL_3K2cgLjM5CIurKsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692120913024:android:fa6c24bdd4b38adbd85265",
+        "android_client_info": {
+          "package_name": "com.example.shoe_wardrobe_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKPfUocF7W5-UymL_3K2cgLjM5CIurKsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
